@@ -1,2 +1,2 @@
 # Portifolio-1DTF-2T
-Projeto desenvolvido no Colégio Estadual Dr Gastão Vidigal, no ano de 2026, na turma do 1BDS, a intenção desse portifólio é explicar a utilidade e a função dos códigos em HTML, CSS e JS. As imagens, áudios e vídeos aqui utilizados, foram retirados...
+Projeto desenvolvido no Colégio Estadual Dr Gastão Vidigal, na turma do 1DTF. Esse portifólio tem como objetivo descrever a utilidade e a função de cada código do HTML, CSS e JS. As imagens, vídeos e áudios aqui usados, foram retirados
